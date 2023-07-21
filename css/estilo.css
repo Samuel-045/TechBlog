@@ -68,6 +68,7 @@ a{
 }
 
 .noticiaAt{
+    box-sizing: border-box;
     height: auto;
     width: 590px;
     margin-top: 10px;
@@ -103,6 +104,7 @@ hr{
 }
 
 .noticiaSug{
+    box-sizing: border-box;
     height: auto;
     margin-top: 10px;
     margin-bottom: 10px;
